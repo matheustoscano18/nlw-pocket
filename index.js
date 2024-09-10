@@ -22,7 +22,6 @@ const start = async () => {
             ]
         })
 
-
         switch (opcao) {
             case "cadastrar":
                 console.log("vamos cadastrar")
